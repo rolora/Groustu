@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Groustu</string>
+    <string name = "groupname">Study boiz</string>
+    <string name = "time">Every Thursday 6pm - 9pm</string>
+    <string name = "location">Village House 2</string>
+    <string name = "description">Just a nice ol group of boiz to study with so that you do not feel lonely while learning those hard subjects.</string>
+</resources>

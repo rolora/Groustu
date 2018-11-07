@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9fb66efcfebceb3c0a01ca8b6b1c2e3b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f2604b3f2cc5db8f293371a38111bd37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c8663aa3e0d8f78189e27c928f8d3143/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cf5b32c03cd8d8316b48589a78a704ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9c76440729f795f70c8baa92c269f896/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/13393f85f7d2a0ba6159aef50e610017/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ba81a3256074e4762d47f76e222e3cd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dbb64b065b15512e06eb3d172ec6cce4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/01ded92b94b2d965190c5c7a1b26f390/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6e31aadb32892d2b0d798ce502a09e10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2efdb0a2117b2c390c68ffc59d176d55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca6cadfc7f6f2710b42f04bd21af4912/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fa51406247daa68e55260ddc8041e1a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/68fd72a6cbd729a93c9c1cd688823901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0ce6b9fa68be76977162dcb9ebbcf1dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3b9d97d8f0182ee8cca4da5ed2cdfbea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/88b5ac9803b7835ac52a6b90f57c7a0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e0ee67561b24bcccfbe7c82a29254552/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3ebfda4353b13c4c4b81cb67833d1fa8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/887cc629f7f2e69e6eb3aecee9f76754/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/553942e19dbddbbd7b272f98857b4923/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/074f2eb505f7fb10a42b6c9f5281f16d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/202e1e3da464162e22f671404340135d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/df5b288edf8bbbcd773f13b9ec70b41c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e8a352e0e73c0a08e74f7f8ff408313a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4d1a992014b7011d922f6651f0b6f48e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1b84379e24aa6f80754533162548042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c9f0350f0a6ce46e08c7b84244958094/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f9a1562692d7fd6ea0f5eccc98d204d7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2ab71a3c85e7a594bc7639935d1ea48d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a861477d266141a56e9150eca5ab0fc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:design:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9fb66efcfebceb3c0a01ca8b6b1c2e3b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9fb66efcfebceb3c0a01ca8b6b1c2e3b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c8663aa3e0d8f78189e27c928f8d3143/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c8663aa3e0d8f78189e27c928f8d3143/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3ebfda4353b13c4c4b81cb67833d1fa8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3ebfda4353b13c4c4b81cb67833d1fa8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/887cc629f7f2e69e6eb3aecee9f76754/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/887cc629f7f2e69e6eb3aecee9f76754/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3ebfda4353b13c4c4b81cb67833d1fa8/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:6:9-30
+activity#com.example.groustu.groustu.Login
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:13:9-43
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:13:19-40
+activity#com.example.groustu.groustu.Register
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:14:9-46
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:14:19-43
+activity#com.example.groustu.groustu.Dashboard
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:15:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.groustu.groustu.UserProfile
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:21:19-46
+activity#com.example.groustu.groustu.ViewSGroup
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:22:9-48
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:22:19-45
+activity#com.example.groustu.groustu.ViewMembers
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:23:19-46
+activity#com.example.groustu.groustu.ViewUser
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:24:9-46
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:24:19-43
+activity#com.example.groustu.groustu.CreateGroup
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:25:19-46
+activity#com.example.groustu.groustu.EditGroup
+ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:26:9-46
+	android:name
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml:26:19-44
+uses-sdk
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9fb66efcfebceb3c0a01ca8b6b1c2e3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9fb66efcfebceb3c0a01ca8b6b1c2e3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f2604b3f2cc5db8f293371a38111bd37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f2604b3f2cc5db8f293371a38111bd37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c8663aa3e0d8f78189e27c928f8d3143/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c8663aa3e0d8f78189e27c928f8d3143/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cf5b32c03cd8d8316b48589a78a704ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cf5b32c03cd8d8316b48589a78a704ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9c76440729f795f70c8baa92c269f896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9c76440729f795f70c8baa92c269f896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/13393f85f7d2a0ba6159aef50e610017/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/13393f85f7d2a0ba6159aef50e610017/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ba81a3256074e4762d47f76e222e3cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ba81a3256074e4762d47f76e222e3cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dbb64b065b15512e06eb3d172ec6cce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dbb64b065b15512e06eb3d172ec6cce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/01ded92b94b2d965190c5c7a1b26f390/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/01ded92b94b2d965190c5c7a1b26f390/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6e31aadb32892d2b0d798ce502a09e10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6e31aadb32892d2b0d798ce502a09e10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2efdb0a2117b2c390c68ffc59d176d55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2efdb0a2117b2c390c68ffc59d176d55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca6cadfc7f6f2710b42f04bd21af4912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca6cadfc7f6f2710b42f04bd21af4912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fa51406247daa68e55260ddc8041e1a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fa51406247daa68e55260ddc8041e1a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/68fd72a6cbd729a93c9c1cd688823901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/68fd72a6cbd729a93c9c1cd688823901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0ce6b9fa68be76977162dcb9ebbcf1dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0ce6b9fa68be76977162dcb9ebbcf1dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3b9d97d8f0182ee8cca4da5ed2cdfbea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3b9d97d8f0182ee8cca4da5ed2cdfbea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/88b5ac9803b7835ac52a6b90f57c7a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/88b5ac9803b7835ac52a6b90f57c7a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e0ee67561b24bcccfbe7c82a29254552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e0ee67561b24bcccfbe7c82a29254552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3ebfda4353b13c4c4b81cb67833d1fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3ebfda4353b13c4c4b81cb67833d1fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/887cc629f7f2e69e6eb3aecee9f76754/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/887cc629f7f2e69e6eb3aecee9f76754/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/553942e19dbddbbd7b272f98857b4923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/553942e19dbddbbd7b272f98857b4923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/074f2eb505f7fb10a42b6c9f5281f16d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/074f2eb505f7fb10a42b6c9f5281f16d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/202e1e3da464162e22f671404340135d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/202e1e3da464162e22f671404340135d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/df5b288edf8bbbcd773f13b9ec70b41c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/df5b288edf8bbbcd773f13b9ec70b41c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e8a352e0e73c0a08e74f7f8ff408313a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e8a352e0e73c0a08e74f7f8ff408313a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4d1a992014b7011d922f6651f0b6f48e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4d1a992014b7011d922f6651f0b6f48e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1b84379e24aa6f80754533162548042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1b84379e24aa6f80754533162548042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c9f0350f0a6ce46e08c7b84244958094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c9f0350f0a6ce46e08c7b84244958094/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f9a1562692d7fd6ea0f5eccc98d204d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f9a1562692d7fd6ea0f5eccc98d204d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2ab71a3c85e7a594bc7639935d1ea48d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2ab71a3c85e7a594bc7639935d1ea48d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a861477d266141a56e9150eca5ab0fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/GriffinRubin1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a861477d266141a56e9150eca5ab0fc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GriffinRubin1/AndroidStudioProjects/Groustu/app/src/main/AndroidManifest.xml
