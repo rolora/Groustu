@@ -12,9 +12,13 @@ class User {
     private String expertCourses;
 
     // Constructor. To be completed
-    public User() {
-
+    public User(String username, String userDescription, String userAvatar) {
+        this.username = username;
+        this.userDescription = userDescription;
+        this.userAvatar = userAvatar;
     }
+
+    public User() {}
 
     public String getUname() {
         return username;
